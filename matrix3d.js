@@ -3,6 +3,7 @@
  * apply the toString() output to a node's transform style. Don't forget perspective :)
  *
  * By Peter Nederlof, https://github.com/peterned
+ * Licensed under MIT, see license.txt or http://www.opensource.org/licenses/mit-license.php
  */
 
 	   // _  __  __  __   ___  _____  _   _  __  _ \\
